@@ -1,1 +1,1 @@
-# ok60-hhkb-keymap
+# s60-x-rgb_hhkb-keymap
